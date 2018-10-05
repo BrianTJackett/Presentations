@@ -1,0 +1,12 @@
+﻿{
+  "frameworks": {
+    "net46": {
+      "dependencies": {
+        "Microsoft.SharePointOnline.CSOM": "16.1.6802.1200",
+        "Microsoft.ApplicationInsights": "2.4.0",
+        "Microsoft.Azure.KeyVault": "2.3.2",
+        "Microsoft.IdentityModel.Clients.ActiveDirectory": "3.16.0"
+      }
+    }
+  }
+}
